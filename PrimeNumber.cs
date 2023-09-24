@@ -1,6 +1,6 @@
-namespace Prime
+namespace Numbers
 {
-    class PrimeNumber
+    class Checker
     {
         public static bool IsPrime(int number)
         {
@@ -10,6 +10,9 @@ namespace Prime
                 if (number % num == 0) return false;
             }
             return true;
+        }
+        public static bool IsEven(int number){
+            return number % 2 == 0;
         }
     }
 }

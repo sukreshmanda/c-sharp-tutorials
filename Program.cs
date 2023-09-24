@@ -1,10 +1,12 @@
-﻿namespace MyNameSpace
+﻿using Numbers;
+
+namespace MyNameSpace
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Prime.PrimeNumber.IsPrime(23));
+            Console.WriteLine(Checker.IsEven(number: 22));
         }
     }
 }
