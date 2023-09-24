@@ -11,8 +11,13 @@ namespace Numbers
             }
             return true;
         }
-        public static bool IsEven(int number){
+        public static bool IsEven(int number)
+        {
             return number % 2 == 0;
+        }
+        public static int nextNumber(int number)
+        {
+            return number + 1;
         }
     }
 }

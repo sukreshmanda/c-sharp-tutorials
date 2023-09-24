@@ -6,7 +6,7 @@ namespace MyNameSpace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Checker.IsEven(number: 22));
+            Console.WriteLine(Checker.nextNumber(number: 22));
         }
     }
 }
