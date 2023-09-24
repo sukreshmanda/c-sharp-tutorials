@@ -1,4 +1,5 @@
 ﻿using Numbers;
+using Library;
 
 namespace MyNameSpace
 {
@@ -6,9 +7,12 @@ namespace MyNameSpace
     {
         static void Main(string[] args)
         {
-            List<int> list = Checker.GetPrimesTill(number: 1000);
-            foreach (int num in list)
-                Console.Write(num + ", ");
+            Author author = new(name: "Crow", age: 22);
+            Book book = new(name: "My Book", author: author, rating: 22.5f);
+
+            Console.WriteLine(book.AuthorName);
+            Console.WriteLine(book.AuthorAge);
+
         }
     }
 }
