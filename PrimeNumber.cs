@@ -4,7 +4,7 @@ namespace Numbers
     {
         public static List<int> GetPrimesTill(int number)
         {
-            List<int> list = new List<int>();
+            List<int> list = [];
             for (int num = 2; num < number; num++)
             {
                 if (IsPrime(num))
