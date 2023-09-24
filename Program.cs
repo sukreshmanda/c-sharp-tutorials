@@ -6,7 +6,9 @@ namespace MyNameSpace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Checker.NextNumber(number: 22));
+            List<int> list = Checker.GetPrimesTill(number: 1000);
+            foreach (int num in list)
+                Console.Write(num + ", ");
         }
     }
 }
