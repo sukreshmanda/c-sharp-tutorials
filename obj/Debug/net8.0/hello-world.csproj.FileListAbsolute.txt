@@ -1,0 +1,14 @@
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/bin/Debug/net8.0/hello-world
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/bin/Debug/net8.0/hello-world.deps.json
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/bin/Debug/net8.0/hello-world.runtimeconfig.json
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/bin/Debug/net8.0/hello-world.dll
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/bin/Debug/net8.0/hello-world.pdb
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfoInputs.cache
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfo.cs
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/hello-world.csproj.CoreCompileInputs.cache
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/hello-world.dll
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/refint/hello-world.dll
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/hello-world.pdb
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
+/Users/sukresh/Desktop/Proj/VP/learning/hello-world/obj/Debug/net8.0/ref/hello-world.dll
