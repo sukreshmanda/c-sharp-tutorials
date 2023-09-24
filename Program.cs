@@ -6,7 +6,7 @@ namespace MyNameSpace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Checker.nextNumber(number: 22));
+            Console.WriteLine(Checker.NextNumber(number: 22));
         }
     }
 }

@@ -15,7 +15,7 @@ namespace Numbers
         {
             return number % 2 == 0;
         }
-        public static int nextNumber(int number)
+        public static int NextNumber(int number)
         {
             return number + 1;
         }
